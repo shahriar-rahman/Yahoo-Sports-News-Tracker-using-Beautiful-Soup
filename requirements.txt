@@ -1,14 +1,9 @@
 # local package
 -e .
 
-# external requirements
-Selenium 4.8.3
-Webdriver Manager 3.8.6
-pandas 2.0.0
-json
-click
-Sphinx
-coverage
-awscli
-flake8
+# requirements
+* Python 3.11 
+* BeautifulSoup4 4.12.2
+* pandas 2.0.0
+* requests
 python-dotenv>=0.5.1
