@@ -6,4 +6,3 @@
 * BeautifulSoup4 4.12.2
 * pandas 2.0.0
 * requests
-python-dotenv>=0.5.1
