@@ -1,8 +1,5 @@
 # Yahoo Sports News Tracker using Beautiful Soup
-
-## Introduction
----------------------------------------------------------
-Allows the BeatifulSoup script to scrape all the recent data based on sport events and results from yahoo and store it inside the memory as a dataset. 
+Allows the BeatifulSoup script to scrape all the recent data based on sports events and results from Yahoo and store it inside the memory as a dataset. 
  
 <div align="center">
     <img width="70%%" src="img/yahoosports.jpg" alt="yahoo.jpg" >
