@@ -4,7 +4,7 @@
 ---------------------------------------------------------
 Allows the BeatifulSoup script to scrape all the recent data based on sport events and results from yahoo and store it inside the memory as a dataset. 
  
-![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
+![alt text](https://github.com/shahriar-rahman/Yahoo-Sports-News-Tracker-using-Beautiful-Soup/blob/main/img/sports.jpg)
 
 ## Project Organization
 ---------------------------------------------------------
