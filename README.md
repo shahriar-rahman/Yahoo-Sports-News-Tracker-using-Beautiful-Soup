@@ -9,16 +9,11 @@ Allows the BeatifulSoup script to scrape all the recent data based on sport even
 ## Project Organization
 ---------------------------------------------------------
 
-    ├── LICENSE
-    ├── Makefile             <- Makefile with various commands
+    ├── LICENSE          <- MIT License
     ├── README.md        <- The top-level README for developers using this project.
     ├── scraping_data
-    │   ├── csv              <- Data in csv format compatible with pandas dataframe.
-    │   ├── excel           <- Data in xlsx format for better data analysis.
-    │   ├── xml             <- Data in xml format.
-    │   └── json            <- Data in Json format for better utilization.
-    │
-    │
+    │   ├── yahoo_news.csv              <- Data in csv format compatible with pandas dataframe.
+    │   └── yahoo_news.json            <- Data in Json format for better utilization.
     │
     ├── img                 <- Contains project image files.
     │   
@@ -26,12 +21,9 @@ Allows the BeatifulSoup script to scrape all the recent data based on sport even
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         			generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── main           <- Contains scripts for automating web scraping using Selenium
-    │   │   └── selenium_audible.py
+    │   ├── yahoo_news.py    <- Primary script for parsing and scraping data.
+    │
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
