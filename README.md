@@ -5,7 +5,7 @@
 Allows the BeatifulSoup script to scrape all the recent data based on sport events and results from yahoo and store it inside the memory as a dataset. 
  
 <div align="center">
-    <img width="80%%" src="img/sports.jpg" alt="yahoo.jpg" >
+    <img width="80%%" src="img/yahoosports.jpg" alt="yahoo.jpg" >
 </div>
 
 ## Project Organization
