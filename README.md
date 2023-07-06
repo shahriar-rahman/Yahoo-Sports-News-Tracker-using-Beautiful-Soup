@@ -4,7 +4,9 @@
 ---------------------------------------------------------
 Allows the BeatifulSoup script to scrape all the recent data based on sport events and results from yahoo and store it inside the memory as a dataset. 
  
-![alt text](https://github.com/shahriar-rahman/Yahoo-Sports-News-Tracker-using-Beautiful-Soup/blob/main/img/sports.jpg)
+<div align="center">
+    <img width="80%%" src="img/sports.jpg" alt="yahoo.jpg" >
+</div>
 
 ## Project Organization
 ---------------------------------------------------------
