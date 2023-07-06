@@ -1,11 +1,8 @@
 # Yahoo Sports News Tracker using Beautiful Soup
-
-## Introduction
----------------------------------------------------------
-Allows the BeatifulSoup script to scrape all the recent data based on sport events and results from yahoo and store it inside the memory as a dataset. 
+Allows the BeatifulSoup script to scrape all the recent data based on sports events and results from Yahoo and store it inside the memory as a dataset. 
  
 <div align="center">
-    <img width="80%%" src="img/sports.jpg" alt="yahoo.jpg" >
+    <img width="70%%" src="img/yahoosports.jpg" alt="yahoo.jpg" >
 </div>
 
 ## Project Organization
@@ -37,6 +34,17 @@ Allows the BeatifulSoup script to scrape all the recent data based on sport even
 * BeautifulSoup4 4.12.2
 * pandas 2.0.0
 * requests
+
+## Installation (using pip)
+In order to *install* bs4 on the local machine, follow these steps:
+1. Open pip and type:
+```
+> pip install beautifulsoup4                                                  
+```
+2. To install the Pandas Library, type:
+```
+> pip install pandas                                                          
+```
 
 ## Future Plans:
 Future plans include scraping the entire field of sports news feed of Yahoo and storing it in separate dataframes for a better user conveniences. 
